@@ -35,3 +35,8 @@ This paragraph will teach you how to use the environment system<br>
 
 > ## Follow the object
 > 1.Set the followObject field of the EnvironmentController to the transform of the target object<br>
+
+> ## Shortcomings
+> 1.A non-strict datetime algorithm is used<br>
+> 2.Insecure encapsulation<br>
+> 3.May contain performance issues<br>
