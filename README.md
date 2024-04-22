@@ -25,7 +25,7 @@ This paragraph will teach you how to use the environment system<br>
 > 2.Import this unity package<br>
 
 > ## Delta timer (Used for day/night cycles)
-> 1.Add the 43GAME Studio/Timer/Delta Timer/Delta Tiemr Updater component to any GameObject ((It is recommended to add components on the EventSystem))<br>
+> 1.Add the 43GAME Studio/Timer/Delta Timer/Delta Tiemr Updater component to any GameObject (It is recommended to add components on the EventSystem)<br>
 
 > ## Volume
 > 1.Add a new layer in Edit -> Project Settings -> Tags & Layers, Suggested Name: "Post Processing"<br>
