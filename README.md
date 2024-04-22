@@ -19,11 +19,15 @@ assetstore.unity.com/packages/p/bfw-simple-dynamic-clouds-85665<br>
 
 # How to use
 This paragraph will teach you how to use the environment system
-> ## Library
+> ## Import
 > 1.Import all the dependencies given in your project<br>
+> 2.Import this unity package<br>
 
 > ## Volume
 > 1.Add a new layer in Edit -> Project Settings -> Tags & Layers, Suggested Name: "Post Processing"<br>
 > 2.Set the Layer field of the Post Process Layer for the Prefab Camera to the layer you just added<br>
 > 3.Set the layer for the Prefab camera to the layer you just added<br>
 > 4.Set the layer of the EnvironmentSystem Prefab to the layer you just added (while changing the children)<br>
+
+> ## Follow the object
+> 1.Set the followObject field of the EnvironmentController to the transform of the target object<br>
