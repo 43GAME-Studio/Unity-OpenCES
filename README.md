@@ -18,5 +18,5 @@ assetstore.unity.com/packages/p/nature-sound-fx-180413<br>
 assetstore.unity.com/packages/p/bfw-simple-dynamic-clouds-85665<br>
 
 # How to use
-Library
-* 1.Import all the dependencies given in your project<br>
+## Library
+1.Import all the dependencies given in your project<br>
