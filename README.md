@@ -18,10 +18,14 @@ assetstore.unity.com/packages/p/nature-sound-fx-180413<br>
 assetstore.unity.com/packages/p/bfw-simple-dynamic-clouds-85665<br>
 
 # How to use
-This paragraph will teach you how to use the environment system
+This paragraph will teach you how to use the environment system<br>
+(This usage applies to version 1.1 (Beta) and above)
 > ## Import
 > 1.Import all the dependencies given into your project<br>
 > 2.Import this unity package<br>
+
+> ## Delta timer (Used for day/night cycles)
+> 1.Add the 43GAME Studio/Timer/Delta Timer/Delta Tiemr Updater component to any GameObject ((It is recommended to add components on the EventSystem))<br>
 
 > ## Volume
 > 1.Add a new layer in Edit -> Project Settings -> Tags & Layers, Suggested Name: "Post Processing"<br>
