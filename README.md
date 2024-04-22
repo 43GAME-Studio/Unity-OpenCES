@@ -15,4 +15,7 @@ Nature Sound FX<br>
 assetstore.unity.com/packages/p/nature-sound-fx-180413<br>
 
 [BFW]Simple Dynamic Clouds<br>
-assetstore.unity.com/packages/p/bfw-simple-dynamic-clouds-85665
+assetstore.unity.com/packages/p/bfw-simple-dynamic-clouds-85665<br>
+
+# How to use
+1.Import all the dependencies given in your project<br>
