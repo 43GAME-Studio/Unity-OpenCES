@@ -20,7 +20,7 @@ assetstore.unity.com/packages/p/bfw-simple-dynamic-clouds-85665<br>
 # How to use
 This paragraph will teach you how to use the environment system
 > ## Import
-> 1.Import all the dependencies given in your project<br>
+> 1.Import all the dependencies given into your project<br>
 > 2.Import this unity package<br>
 
 > ## Volume
