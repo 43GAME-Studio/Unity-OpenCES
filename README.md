@@ -1,7 +1,7 @@
 # Unity OpenCES
 Unity Open Customizable Environment System
 
-A mobile platform environment system that works in the Build-in Render pipeline that offers built-in 4 weather and ambient sound effects and day/night cycles and volume and much more.
+A mobile platform environment system that works in the Built-in Render pipeline that offers built-in 4 weather and ambient sound effects and day/night cycles and volume and much more.
 
 # Library
 DOTween (HOTween v2)<br>
