@@ -21,7 +21,7 @@ assetstore.unity.com/packages/p/bfw-simple-dynamic-clouds-85665<br>
 This paragraph will teach you how to use the environment system<br>
 (This usage applies to version 1.1 (Beta) and above)
 ### Import
-1.Import all the dependencies given into your project<br>
+1.Import all the libraries given into your project<br>
 2.Import this unity package<br>
 
 ### Delta timer (Used for day/night cycle)
