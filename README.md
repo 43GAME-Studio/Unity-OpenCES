@@ -1,7 +1,7 @@
 # Unity OpenCES
 Unity Open Customizable Environment System
 
-A mobile platform environment system that works in the Built-in Render pipeline that offers built-in 4 weather and ambient sound effects and day/night cycles and volume and much more.
+A mobile platform environment system that works in the Built-in Render pipeline that offers built-in 4 weather and ambient sound effects and day/night cycle and volume and much more.
 
 # Library
 DOTween (HOTween v2)<br>
@@ -24,7 +24,7 @@ This paragraph will teach you how to use the environment system<br>
 > 1.Import all the dependencies given into your project<br>
 > 2.Import this unity package<br>
 
-> ## Delta timer (Used for day/night cycles)
+> ## Delta timer (Used for day/night cycle)
 > 1.Add the 43GAME Studio/Timer/Delta Timer/Delta Tiemr Updater component to any GameObject (It is recommended to add components on the EventSystem)<br>
 
 > ## Volume
